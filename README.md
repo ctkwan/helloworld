@@ -1,1 +1,11 @@
-//I don't know how to write hello-world
+#include <iostream>
+using namespace std;
+  
+int main(){
+cout<<"Hello world"
+
+
+
+
+
+}
